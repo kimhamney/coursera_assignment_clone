@@ -1,1 +1,2 @@
-# coursera_assignment_clone
+# coursera_assignment
+This is about the coursera assignment.
