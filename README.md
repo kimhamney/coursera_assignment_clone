@@ -1,2 +1,2 @@
 # coursera_assignment
-Updated README with typo fix
+Updated README with typo fix . .
